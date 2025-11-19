@@ -1,12 +1,12 @@
 # natural-or-fake-natty-ia
 Projeto do bootcamp da DIO - Natural ou fake natty? como vencer na era das IAs Generativas.
-## 🧠 Conteúdos Trabalhados
+## Conteúdos Trabalhados
 - Diferenças entre conteúdo natural e conteúdo criado por IA  
 - Como identificar produções automáticas  
 - Como se destacar usando IA sem perder autenticidade  
 - Como usar IA como ferramenta de evolução, não como muleta
   
-Como visualizar
+## Como visualizar
 Acesse a pasta */exemplos* para ver as comparações entre texto humano e texto gerado por IA.
 
 Leia também:
@@ -16,7 +16,7 @@ Leia também:
 Eles aprofundam o tema e mostram como aplicar IA de forma segura e inteligente.
 
 
-Conclusão
+## Conclusão
 Vencer na era das IAs generativas não significa competir com a IA, mas *usar a IA como alavanca estratégica* para alcançar resultados maiores, mais rápidos e mais criativos.
 
 A combinação humano + IA é hoje o “natty” mais forte de todos.
